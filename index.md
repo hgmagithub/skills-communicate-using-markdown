@@ -3,6 +3,11 @@
 ### Header 3
 ###### Header 6
 reguar text
+- [x] List item 1
+- [ ] List item 2
+- [x] List items 3
+
+
 ```
 print("Hellow World!")
 library(dplyr)
